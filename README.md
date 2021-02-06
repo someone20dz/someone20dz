@@ -5,18 +5,18 @@
 
 ### I'm a Student
 - :hammer: **I’m currently working on:**</br>
-***PDF_MANAGEMENT_WEB_APP***</br>
-***Reminder_Notification_APP***</br>
-***Udemy_Free_Course_Enroller***
+1. ***PDF_MANAGEMENT_WEB_APP***</br>
+2. ***Reminder_Notification_APP***</br>
+3. ***Udemy_Free_Course_Enroller***
 
 - :pencil: **Ask me about:**
 ***Who I'am - how i started to code - learning resources***
 
 - :bookmark: **2021 Goals:**</br>
-***Create PDF_Web_App***</br>
-***Create Flask_Web_App***</br>
-***Create Udemy_Free_Course_Enroller***</br>
-***Create PDF_MANAGEMENT_WEB_APP***
+1. ***Create PDF_Web_App***</br>
+2. ***Create Flask_Web_App***</br>
+3. ***Create Udemy_Free_Course_Enroller***</br>
+4. ***Create PDF_MANAGEMENT_WEB_APP***
 </br>
 </br>
 ### Connect With me
