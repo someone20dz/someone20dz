@@ -10,9 +10,11 @@
 ***Reminder_Notification_APP***</br>
 ***Udemy_Free_Course_Enroller***
 </br>
-- :pencil: **Ask me about:** ***Who I'am - how i started to code - learning resources***
+- :pencil: **Ask me about:**
+***Who I'am - how i started to code - learning resources***
 </br>
 - :bookmark: **2021 Goals:**
+
 ***Create PDF_Web_App***</br>
 ***Create Flask_Web_App***</br>
 ***Create Udemy_Free_Course_Enroller***</br>
