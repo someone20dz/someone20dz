@@ -1,7 +1,7 @@
 <!--
 **someone20dz/someone20dz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-###👋 Hi there, I'am Mameri Radhouane - aka Radh 👋
+### 👋 Hi there, I'am Mameri Radhouane - aka Radh 👋
 
 ### I'm a Student
 - :hammer: **I’m currently working on:**
