@@ -20,7 +20,9 @@
 </br>
 </br>
 ### Connect With me
-[Instagram](https://www.instagram.com/radhhouanee/) [Facebook](https://www.facebook.com/radhouaneouu) [Discord](Some_One#4551)
+[Instagram](https://www.instagram.com/radhhouanee/)
+[Facebook](https://www.facebook.com/radhouaneouu)
+[Discord](Some_One#4551)
 
 ### Languages
 ![HTML](Icons/HTML.png) ![CSS](Icons/CSS.png) ![Python](Icons/Python.png)
