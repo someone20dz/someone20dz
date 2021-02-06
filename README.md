@@ -9,10 +9,8 @@
 ***PDF_MANAGEMENT_WEB_APP***</br>
 ***Reminder_Notification_APP***</br>
 ***Udemy_Free_Course_Enroller***
-</br>
 - :pencil: **Ask me about:**
 ***Who I'am - how i started to code - learning resources***
-</br>
 - :bookmark: **2021 Goals:**
 
 ***Create PDF_Web_App***</br>
