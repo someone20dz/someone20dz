@@ -18,11 +18,10 @@
 4. ***Create PDF_MANAGEMENT_WEB_APP***
 </br>
 </br>
-### Connect With me</br>
-<a href="https://www.instagram.com/radhhouanee" rel="nofollow">Instagram</a>
+### Connect With me
 
-[Facebook](https://www.facebook.com/radhouaneouu)</br>
-[Discord](Some_One#4551)
+<a href="https://www.instagram.com/radhhouanee" rel="nofollow">Instagram</a>
+<a href="https://www.facebook.com/radhouaneouu" rel="nofollow">Facebook</a>
 
 
 ### Languages
