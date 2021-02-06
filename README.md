@@ -16,12 +16,9 @@
 2. ***Create Flask_Web_App***</br>
 3. ***Create Udemy_Free_Course_Enroller***</br>
 4. ***Create PDF_MANAGEMENT_WEB_APP***
-</br>
-</br>
-### Connect With me
 
-<a href="https://www.instagram.com/radhhouanee" rel="nofollow">Instagram</a>
-<a href="https://www.facebook.com/radhouaneouu" rel="nofollow">Facebook</a>
+### Connect With me
+<a href="https://www.instagram.com/radhhouanee" rel="nofollow">Instagram</a> | <a href="https://www.facebook.com/radhouaneouu" rel="nofollow">Facebook</a>
 
 
 ### Languages
