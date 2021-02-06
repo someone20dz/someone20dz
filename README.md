@@ -5,10 +5,10 @@
 
 ### I'm a Student
 - :hammer: **I’m currently working on:**
-</br>
-- 1.***PDF_MANAGEMENT_WEB_APP***
-- 2.***Reminder_Notification_APP***
-- 3.***Udemy_Free_Course_Enroller***
+
+***PDF_MANAGEMENT_WEB_APP***
+***Reminder_Notification_APP***
+***Udemy_Free_Course_Enroller***
 </br>
 - :pencil: **Ask me about:** ***Who I'am - how i started to code - learning resources***
 </br>
