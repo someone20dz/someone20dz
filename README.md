@@ -1,20 +1,33 @@
-### Hi there 👋
-
 <!--
 **someone20dz/someone20dz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### Hi there, I'am Mameri Radhouane - aka Radh
+###👋 Hi there, I'am Mameri Radhouane - aka Radh 👋
 
-### I'm a Developer
+### I'm a Student
+- :hammer: **I’m currently working on:**
+</br>
+- 1. ***PDF_MANAGEMENT_WEB_APP***
+- 2. ***Reminder_Notification_APP***
+- 3. ***Udemy_Free_Course_Enroller***
+</br>
+- :pencil: **Ask me about:** ***Who I'am - how i started to code - learning resources***
+</br>
+- :bookmark: **2021 Goals:**
+- 1. **Create PDF_Web_App**
+- 2. **Create Flask_Web_App**
+- 3. **Create Udemy_Free_Course_Enroller**
+- 4. **Create PDF_MANAGEMENT_WEB_APP**
 
-- 🔭 I’m currently working on ***PDF_MANAGEMENT_WEB_APP***
-- :detective:  I’m currently learning ***Python-Flask-Selenium***
-- :pencil: Ask me about ***anything***
-- :mailbox_with_mail: How to reach me: [Instagram](https://www.instagram.com/radhhouanee/) [Facebook](https://www.facebook.com/radhouaneouu)
-- :bookmark: 2021 Goals: *Build **PDF_Web_App** - **Udemy_Free_Course_Enroller** - **Flask_Web_App***
+
+</br>
+</br>
+### Connect With me
+[Instagram](https://www.instagram.com/radhhouanee/) [Facebook](https://www.facebook.com/radhouaneouu) [Discord](Some_One#4551)
+
+### Languages
+![HTML](Icons/HTML.png) ![CSS](Icons/CSS.png) ![Python](Icons/Python.png)
 
 
-<!-- 👯 I’m looking to collaborate on THIS WAS THIRD-->
-<!--🤔 I’m looking for help with ...-->
-<!-- 😄 Pronouns: ...-->
-<!--- ⚡ Fun fact: ...-->
+### Frameworks
+
+- ***Flask***
