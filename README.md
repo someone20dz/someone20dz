@@ -6,17 +6,17 @@
 ### I'm a Student
 - :hammer: **I’m currently working on:**
 </br>
-- 1. ***PDF_MANAGEMENT_WEB_APP***
-- 2. ***Reminder_Notification_APP***
-- 3. ***Udemy_Free_Course_Enroller***
+- 1.***PDF_MANAGEMENT_WEB_APP***
+- 2.***Reminder_Notification_APP***
+- 3.***Udemy_Free_Course_Enroller***
 </br>
 - :pencil: **Ask me about:** ***Who I'am - how i started to code - learning resources***
 </br>
 - :bookmark: **2021 Goals:**
-- 1. **Create PDF_Web_App**
-- 2. **Create Flask_Web_App**
-- 3. **Create Udemy_Free_Course_Enroller**
-- 4. **Create PDF_MANAGEMENT_WEB_APP**
+- 1.**Create PDF_Web_App**
+- 2.**Create Flask_Web_App**
+- 3.**Create Udemy_Free_Course_Enroller**
+- 4.**Create PDF_MANAGEMENT_WEB_APP**
 
 
 </br>
