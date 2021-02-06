@@ -17,8 +17,6 @@
 ***Create Flask_Web_App***</br>
 ***Create Udemy_Free_Course_Enroller***</br>
 ***Create PDF_MANAGEMENT_WEB_APP***
-
-
 </br>
 </br>
 ### Connect With me
