@@ -19,11 +19,12 @@
 </br>
 </br>
 ### Connect With me</br>
-[Instagram](https://www.instagram.com/radhhouanee)</br>
+<a href="https://www.instagram.com/radhhouanee" rel="nofollow">Instagram</a>
+
 [Facebook](https://www.facebook.com/radhouaneouu)</br>
 [Discord](Some_One#4551)
 
-https://www.instagram.com/radhhouanee - Instagram!
+
 ### Languages
 ![HTML](Icons/HTML.png) ![CSS](Icons/CSS.png) ![Python](Icons/Python.png)
 
